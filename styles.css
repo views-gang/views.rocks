@@ -1,0 +1,78 @@
+@font-face {
+	font-family: 'GolosTextWebVF';
+	src: url('/fonts/golos/Golos%20Text_VF.eot');
+	src:
+	     url('/fonts/golos/Golos%20Text_VF.eot?#iefix') format('embedded-opentype'),
+	     url('/fonts/golos/Golos%20Text_VF.woff2') format('woff2'),
+	     url('/fonts/golos/Golos%20Text_VF.woff') format('woff'),
+	     url('/fonts/golos/Golos%20Text_VF.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: 'BLOKK';
+    src: url('/fonts/blokk/BLOKKNeue-Regular.eot');
+    src: url('/fonts/blokk/BLOKKNeue-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/blokk/BLOKKNeue-Regular.woff2') format('woff2'),
+         url('/fonts/blokk/BLOKKNeue-Regular.woff') format('woff'),
+         url('/fonts/blokk/BLOKKNeue-Regular.otf') format('opentype'),
+         url('/fonts/blokk/BLOKKNeue-Regular.ttf') format('truetype'),
+         url('/fonts/blokk/BLOKKNeue-Regular.svg#BLOKKRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: 'BLOKK';
+        src: url('BLOKKNeue-Regular.svg') format('svg');
+    }
+}
+
+
+body {
+	font-family: 'GolosTextWebVF', sans-serif;
+	background-color: #F6F2F1;
+	}
+
+.placeholder {
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-family: "BLOKK";
+    color: #666;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+.header {padding-top: 2rem;}
+
+
+
+.icon {
+    display: inline-flex;
+    align-self: center;
+}
+
+.icon svg, .icon img {
+    height: 1em;
+    width: 1em;
+}
+
+.icon.baseline svg, .icon img {
+    top: .125em;
+    position: relative;
+}
+
+
+a {
+    color: #666;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: #666;
+    text-decoration: none;
+}
