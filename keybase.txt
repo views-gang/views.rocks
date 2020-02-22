@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/ktwzk
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://views.rocks
+  * I am ktwzk (https://keybase.io/ktwzk) on keybase.
+  * I have a public key with fingerprint 69F6 8CDB 5B75 F478 6541  40EB 3B3A 8C76 2F9F 4423
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01019453a60438b2e28ff56f7493efdd0e39adace3a8052cb44fab6ee19b03ca1b200a",
+      "fingerprint": "69f68cdb5b75f478654140eb3b3a8c762f9f4423",
+      "host": "keybase.io",
+      "key_id": "3b3a8c762f9f4423",
+      "kid": "01019453a60438b2e28ff56f7493efdd0e39adace3a8052cb44fab6ee19b03ca1b200a",
+      "uid": "4ff0cb377c496ce13240608dfefd8219",
+      "username": "ktwzk"
+    },
+    "service": {
+      "hostname": "views.rocks",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1582382448,
+  "expire_in": 157680000,
+  "prev": "3e6d9a9d35287333e208ece657d14b599e6bb34de576dc3a2bf1b7a641508d81",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJdSBVBGF2tzCTJpCzChxoQgm62uzP7d9GKmxZCUQaRWHnb2Z29btfu
+3nbXq2aCD2E/D0EiIlZCZYVgRlEY3aJSEzKVQh8Ew0gL/AsqCiyImhV767F5Geb7
+zjlzzsfXk7qISUnoJL9j8d8JdQmvnjeUMyWFudFqgC29CvirQZjMX6RMJ44bDJs6
+8AOWYzkFCVAVWQRlzBNeNgxBNCSkQGLoOkugouqqRqAqswKvYYQMFYuEcApmoaZy
+mGdZFfiAYUZCxI7aZsSlsqJiiLKmYwFLgoEkWRQQh1iCIaY6miTyhmIgxENKLLUc
+j0HNYdUh2aZFa/QRnLf3D/x/9l0+L4cMg9UwlCQNKaJGOMgjVmRl3aBaMs8pHtAh
+dkQ9TjyvbsXJMKjxAVqKmRrxpurFWGjHTFLhZNuWFnYoL2pbrqVZZbRR6rpRx+8R
+3aqoh6wgOLigEcRmRKczpIwYsR3TigA/R5Gaa3qinCDzUOYRkn2AVEZNmwRNDyFI
+oszS4/1DYt7EiKgrqqJDgZclCCHhWZloRBQknUNYUBQiYgyRTihT16DKY4PDkioi
+TqB5ZQ54qU5ELOBHHPWphqimY4YiqltuE1DT9ezwYiYhhUlakugtF5OyLO3vyi3e
+kMyczTkYr26fbf40cOrcQMlYcnj4yvfLbQ+LQWsBnP11oUusTjTnsi72Vm1j/NuP
+Dj7uXtlwNTNv6+mnBcM/OiZ+ZnbZ5a3x0fzvh/vB2uGMjvc+a8eTtjsVz/te+qaS
+UlPWf907Gc+vz1w+dLPlQ8vSj/GWpt7xb9duDebtCQXWhZjGkdDYbnk1c/J8JG2N
+NDNTDxT7ReOKqZ2vawvTktlkcfzzYGFzbWb+yNeegWP7+otqArcDgZEtk9PFeRPo
+xqVV4fSaT2c2Prp/KP9eetOuc+/apjM2Hwl05uXUdx8p21SUkfOjPVwXXxt++8B/
+vavy7txOGz79Mnoga//QCfAs903fH46FQu0=
+=WJWa
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ktwzk
+
+==================================================================
