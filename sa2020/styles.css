@@ -51,6 +51,7 @@
 html {
   -webkit-text-size-adjust: 100%;
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
+  line-height: 1.5;
 }
 
 
@@ -888,6 +889,19 @@ button.swiper-pagination-bullet {
   color: #fff
 }
 
+.negative a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+
+.negative a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+
 .negative .text ul {
   color: #fff
 }
@@ -1053,7 +1067,7 @@ button.swiper-pagination-bullet {
 
 .explication {
   font-family: 'DecimaMonoXBold';
-  font-size: 1rem;
+  font-size: 0.8rem;
   text-transform: uppercase;
 }
 
@@ -1062,3 +1076,32 @@ button.swiper-pagination-bullet {
     align-items: flex-end;
 }
 
+
+.exps-2 {
+    display: flex;
+    align-items: flex-end;
+    margin-top: 2.9rem;
+}
+
+.omsk {
+  z-index: 3;
+}
+
+.kids {
+  z-index: 1;
+  margin-top: -12rem;
+}
+
+.omsk-exp {
+  margin-left: 3rem;
+  margin-top: -1rem;
+}
+
+
+a {
+  
+}
+
+a:hover {
+
+}
