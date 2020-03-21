@@ -1014,7 +1014,7 @@ button.swiper-pagination-bullet {
 }
 
 .ticker .ticker_title {
-  font-family: "DecimaMonoX";
+  font-family: "DecimaMonoXBold";
   font-size: 1.4rem;
   line-height: 1;
   color: #FF7070;
@@ -1097,11 +1097,81 @@ button.swiper-pagination-bullet {
   margin-top: -1rem;
 }
 
-
-a {
-  
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.menu {
+    display: flex;
+    justify-content: space-around;
 }
 
-a:hover {
 
+.social {
+  color: black;
+
+  font-family: 'Pragmatica', 'OpenSans', sans-serif;
+  text-decoration: underline;
 }
+
+.social:hover {
+  color: black;
+
+  font-family: 'Pragmatica', 'OpenSans', sans-serif;
+  text-decoration: none;
+}
+
+.social:visited {
+  color: black;
+
+  font-family: 'Pragmatica', 'OpenSans', sans-serif;
+  text-decoration: underline;
+}
+
+.dates {
+  font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+}
+
+
+.dates::after
+{
+  position: absolute;
+  content: "";
+  height: 23rem;
+  width: 23rem;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(./img/dates.svg);
+  z-index: 3;
+  top: 6rem;
+  left: 3rem;
+}
+
+
+.contacts p {
+  font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
+  font-size: 1.15rem;
+  text-transform: uppercase;
+  padding-bottom: 0.25rem !important;
+}
+
+.abzac {
+  padding-top: 0.5rem !important;
+}
+
+h3 {
+  font-family: "DecimaMonoXBold";
+  font-size: 1.4rem;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+
+.partners {
+  padding-top: 8rem !important;
+  padding-bottom: 10rem !important;
+}
+
