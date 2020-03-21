@@ -1178,7 +1178,7 @@ ul {
   text-transform: uppercase;
 }
 
-
+/*
 .dates::after
 {
   position: absolute;
@@ -1191,6 +1191,23 @@ ul {
   z-index: 3;
   top: 6rem;
   left: 3rem;
+}*/
+
+.dates-pic {
+  margin-top: -13rem; 
+  z-index: 3;
+  width:80%;
+  align-content: center;
+}
+
+.dates-pic-mob {
+  display: block;
+  margin-top: -3rem; 
+  z-index: 3;
+  width:70%;
+  margin-left: auto;
+  margin-right: 6rem;
+  padding-bottom: 5rem;
 }
 
 
@@ -1245,7 +1262,6 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
 }
 
 
-
 @media (min-width: 320px) {
   .web {
     display: none
@@ -1264,8 +1280,6 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
   
 
 }
-
-
 @media (min-width: 320px) {
   .mobile {
     display: block
@@ -1277,7 +1291,6 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
     display: none
   }
 }
-
 
 .mobile p {
   font-size: 3rem;
