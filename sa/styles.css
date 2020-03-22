@@ -59,7 +59,7 @@ html {
 
 h1, h2 {
   font-size: 5vw;
-  margin: 0.67rem 0;
+  margin: 0.67vw 0;
   font-family: 'Pragmatica', 'OpenSans', sans-serif;
   text-transform: uppercase;
 }
@@ -67,7 +67,7 @@ h1, h2 {
 p {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
   font-size: 1.5vw;
-  padding-bottom: 1.5rem;
+  padding-bottom: 1.5vw;
 }
 
 hr {
@@ -919,9 +919,9 @@ button.swiper-pagination-bullet {
   position: absolute;
   content: "";
   width: 100%;
-  height: 8rem;
+  height: 8vw;
   left: 0;
-  top: -7.5rem;
+  top: -7.5vw;
   background-size: contain;
   background-position: center;
   background-repeat: repeat-x;
@@ -932,7 +932,7 @@ button.swiper-pagination-bullet {
   -webkit-transform: rotateZ(180deg);
   transform: rotateZ(180deg);
   top: initial;
-  bottom: -7.5rem;
+  bottom: -7.5vw;
 }
 
 
@@ -971,7 +971,7 @@ button.swiper-pagination-bullet {
 }
 
 .way-row {
-  padding-bottom: 10rem;
+  padding-bottom: 10vw;
 }
 
 .register {
@@ -981,15 +981,10 @@ button.swiper-pagination-bullet {
 }
 
 .row {
-  padding-top: 3rem;
+  padding-top: 3vw;
 }
 
 
-
-.aim {
-  font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
-  font-size: 0.9rem;
-}
 
 .crossed::before
 {
@@ -1038,7 +1033,7 @@ button.swiper-pagination-bullet {
 
 
 .way {
-  margin-top: -3rem; 
+  margin-top: -3vw; 
   width: 70%;
   align-self: right;
 }
@@ -1059,11 +1054,11 @@ button.swiper-pagination-bullet {
 
 .ticker .ticker_title {
   font-family: "DecimaMonoXBold";
-  font-size: 1.4rem;
+  font-size: 2vw;
   line-height: 1;
   color: #FF7070;
   text-transform: uppercase;
-  letter-spacing: 0.01rem;
+  letter-spacing: 0.01vw;
   text-align: center
 }
 
@@ -1074,16 +1069,16 @@ button.swiper-pagination-bullet {
 }
 
 .icon svg, .icon img {
-    height: 1em;
+    height: 4vw;
 }
 
 .icon.baseline svg, .icon img {
-    top: 0.125em;
+    top: 0.125vw;
     position: relative;
 }
 
 .stenograffia {
-  padding-top: 1.5rem !important;
+  padding-top: 1.5vw !important;
 
 }
 
@@ -1092,26 +1087,26 @@ button.swiper-pagination-bullet {
 .arrow-icon {
     display: inline-flex;
     align-self: center;
-    padding: 0 3rem;
+    padding: 0 3vw;
 }
 
 .arrow-icon svg, .arrow-icon img {
-    height: 1em;
+    height: 2vw;
 }
 
 .arrow-icon.baseline svg, .arrow-icon img {
-    top: 0.125em;
+    top: 0.125vw;
     position: relative;
 }
 
 .spektr {
   z-index: 3;
-  margin-top: -10rem;
+  margin-top: -10vw;
 }
 
 .explication {
   font-family: 'DecimaMonoXBold';
-  font-size: 1.3rem;
+  font-size: 1.6vw;
   text-transform: uppercase;
 }
 
@@ -1124,7 +1119,7 @@ button.swiper-pagination-bullet {
 .exps-2 {
     display: flex;
     align-items: flex-end;
-    margin-top: 2.9rem;
+    margin-top: 2.9vw;
 }
 
 .omsk {
@@ -1133,12 +1128,12 @@ button.swiper-pagination-bullet {
 
 .kids {
   z-index: 1;
-  margin-top: -14rem;
+  margin-top: -14vw;
 }
 
 .omsk-exp {
   /*margin-left: 3rem;*/
-  margin-top: -1rem;
+  margin-top: -1vw;
 }
 
 ul {
@@ -1175,7 +1170,7 @@ ul {
 
 .dates {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
-  font-size: 2rem;
+  font-size: 3vw;
   text-transform: uppercase;
 }
 
@@ -1195,7 +1190,7 @@ ul {
 }*/
 
 .dates-pic {
-  margin-top: -15rem; 
+  margin-top: -15vw; 
   z-index: 3;
   width:70%;
   align-content: center;
@@ -1214,26 +1209,26 @@ ul {
 
 .contacts p {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
-  font-size: 1.15rem;
+  font-size: 1.4vw;
   text-transform: uppercase;
-  padding-bottom: 0.25rem !important;
+  padding-bottom: 0.25vw !important;
 }
 
 .abzac {
-  padding-top: 0.5rem !important;
+  padding-top: 0.5vw !important;
 }
 
 h3 {
   font-family: "DecimaMonoXBold";
-  font-size: 1.4rem;
+  font-size: 1.4vw;
   text-transform: uppercase;
   text-align: center;
 }
 
 
 .partners {
-  padding-top: 8rem !important;
-  padding-bottom: 10rem !important;
+  padding-top: 8vw !important;
+  padding-bottom: 10vw !important;
 }
 
 
