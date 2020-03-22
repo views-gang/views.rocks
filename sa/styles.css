@@ -67,7 +67,7 @@ h1, h2 {
 p {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
   font-size: 1.5vw;
-  padding-bottom: 1.5vw;
+  padding-bottom: 2.5vw;
 }
 
 hr {
@@ -919,9 +919,9 @@ button.swiper-pagination-bullet {
   position: absolute;
   content: "";
   width: 100%;
-  height: 8vw;
+  height: 8.1vw;
   left: 0;
-  top: -7.5vw;
+  top: -7.6vw;
   background-size: contain;
   background-position: center;
   background-repeat: repeat-x;
@@ -932,7 +932,7 @@ button.swiper-pagination-bullet {
   -webkit-transform: rotateZ(180deg);
   transform: rotateZ(180deg);
   top: initial;
-  bottom: -7.5vw;
+  bottom: -7.6vw;
 }
 
 
@@ -981,9 +981,17 @@ button.swiper-pagination-bullet {
 }
 
 .row {
-  padding-top: 3vw;
+  padding-top: 5vw;
 }
 
+
+.title {
+  padding-top: 9vw;
+}
+
+.map {
+  padding-top: 8vw; 
+}
 
 
 .crossed::before
@@ -1033,8 +1041,9 @@ button.swiper-pagination-bullet {
 
 
 .way {
-  margin-top: -3vw; 
-  width: 70%;
+  margin-top: -5vw; 
+  margin-left: 1.5vw;
+  width: 60%;
   align-self: right;
 }
 
@@ -1070,6 +1079,7 @@ button.swiper-pagination-bullet {
 
 .icon svg, .icon img {
     height: 4vw;
+    width: 10vw;
 }
 
 .icon.baseline svg, .icon img {
@@ -1078,7 +1088,7 @@ button.swiper-pagination-bullet {
 }
 
 .stenograffia {
-  padding-top: 1.5vw !important;
+  padding-top: 3vw !important;
 
 }
 
@@ -1119,7 +1129,8 @@ button.swiper-pagination-bullet {
 .exps-2 {
     display: flex;
     align-items: flex-end;
-    margin-top: 2.9vw;
+    margin-top: 1vw;
+    margin-left: 4vw; 
 }
 
 .omsk {
@@ -1128,7 +1139,7 @@ button.swiper-pagination-bullet {
 
 .kids {
   z-index: 1;
-  margin-top: -14vw;
+  margin-top: -18vw;
 }
 
 .omsk-exp {
@@ -1149,7 +1160,7 @@ ul {
 
 .social {
   color: black;
-
+  font-size: 1.5vw;
   font-family: 'Pragmatica', 'OpenSans', sans-serif;
   text-decoration: underline;
 }
@@ -1215,7 +1226,7 @@ ul {
 }
 
 .abzac {
-  padding-top: 0.5vw !important;
+  padding-top: 1vw !important;
 }
 
 h3 {
