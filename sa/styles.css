@@ -54,8 +54,15 @@ html {
   line-height: 1.5;
   overflow-x: hidden;
 }
+/*
+.web {
+  background-image: url(./maket.png); 
+  background-repeat: no-repeat;
+  background-size: 110%;
+  background-position: 50% -135%;
 
-
+}
+*/
 
 h1, h2 {
   font-size: 5vw;
@@ -66,8 +73,8 @@ h1, h2 {
 
 p {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
-  font-size: 1.5vw;
-  padding-bottom: 2.5vw;
+  font-size: 1.25vw;
+  padding-bottom: 1.25vw;
 }
 
 hr {
@@ -976,7 +983,7 @@ button.swiper-pagination-bullet {
 
 .register {
   font-family: 'Pragmatica', 'OpenSans', sans-serif;
-  font-size: 2vw;
+  font-size: 2.4vw;
   text-transform: uppercase;
 }
 
@@ -998,14 +1005,14 @@ button.swiper-pagination-bullet {
 {
   position: absolute;
   content: "";
-  width: 2.5vw;
-  height: 2.5vw;
+  width: 1.8vw;
+  height: 1.8vw;
   background-repeat: no-repeat;
   background-size: contain;
   background-image: url(./img/cross.svg);
   z-index: 3;
-  margin-left: -4vw;
-  margin-top: 1vw;
+  margin-left: -3vw;
+  margin-top: 0.5vw;
   
 }
 
@@ -1101,7 +1108,7 @@ button.swiper-pagination-bullet {
 }
 
 .arrow-icon svg, .arrow-icon img {
-    height: 2vw;
+    width: 16vw;
 }
 
 .arrow-icon.baseline svg, .arrow-icon img {
@@ -1116,7 +1123,7 @@ button.swiper-pagination-bullet {
 
 .explication {
   font-family: 'DecimaMonoXBold';
-  font-size: 1.6vw;
+  font-size: 1.5vw;
   text-transform: uppercase;
 }
 
@@ -1139,7 +1146,7 @@ button.swiper-pagination-bullet {
 
 .kids {
   z-index: 1;
-  margin-top: -18vw;
+  margin-top: -14vw;
 }
 
 .omsk-exp {
@@ -1201,9 +1208,9 @@ ul {
 }*/
 
 .dates-pic {
-  margin-top: -15vw; 
+  margin-top: -13vw; 
   z-index: 3;
-  width:70%;
+  width:65%;
   align-content: center;
 }
 
@@ -1224,6 +1231,7 @@ ul {
   text-transform: uppercase;
   padding-bottom: 0.25vw !important;
 }
+
 
 .abzac {
   padding-top: 1vw !important;
@@ -1275,7 +1283,7 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 480px) {
   .web {
     display: block
   }
@@ -1293,7 +1301,7 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
   }
 }
 
-@media (min-width: 1200px) {
+@media (min-width: 480px) {
   .mobile {
     display: none
   }
@@ -1340,5 +1348,9 @@ svg|a g, svg|a:link g, svg|a:visited g, svg|a:hover g, svg|a:active g {
   font-size: 3rem;
 }
 
+
+.dates-row {
+  padding-top: 1.5vw !important;
+}
 
 .tasya {width: 90%}
