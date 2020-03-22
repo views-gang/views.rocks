@@ -65,7 +65,7 @@ h1, h2 {
 
 p {
   font-family: 'PragmaticaFine', 'OpenSans', sans-serif;
-  font-size: 0.9rem;
+  font-size: 1.1rem;
   padding-bottom: 1.5rem;
 }
 
@@ -1110,7 +1110,7 @@ button.swiper-pagination-bullet {
 
 .explication {
   font-family: 'DecimaMonoXBold';
-  font-size: 0.8rem;
+  font-size: 1rem;
   text-transform: uppercase;
 }
 
